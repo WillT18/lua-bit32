@@ -1,6 +1,7 @@
 --[[
 An recreation of the bit32 library from version 5.2
 This library does not rely on the bitwise operators introduced in version 5.3, meaning this library should in theory also work in 5.1.
+Last edit 10-5-25
 ]]
 
 local bit32 = {}
